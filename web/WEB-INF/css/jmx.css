@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+}
+
+.jmx-header {
+    width: 100%;
+    height: 60px;
+}
+
+.jmx-content {
+    position: relative;
+    min-height: 50vh;
+}
+
+.list-left {
+    display: inline-block;
+    position: relative;
+    border: green 1px solid;
+    width: 30%;
+    min-height: 50vh;
+}
+
+.list-right {
+    display: inline-block;
+    position: relative;
+    border: red 1px solid;
+    width: 69%;
+    min-height: 50vh;
+}
